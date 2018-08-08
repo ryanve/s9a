@@ -1,0 +1,25 @@
+{
+  "name": "s9a",
+  "version": "0.0.0",
+  "description": "Numeronymize synesthesia",
+  "author": "Ryan Van Etten",
+  "license": "CC0-1.0",
+  "main": "s9a.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "homepage": "https://github.com/ryanve/s9a",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/s9a.git"
+  },
+  "keywords": [
+    "abbreviate",
+    "numeronymize",
+    "numeronym",
+    "synesthesia"
+  ],
+  "bugs": {
+    "url": "https://github.com/ryanve/s9a/issues"
+  }
+}
